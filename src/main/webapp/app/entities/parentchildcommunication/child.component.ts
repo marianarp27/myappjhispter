@@ -1,4 +1,4 @@
-import { Component, Emit, Prop, Vue, Watch } from 'vue-property-decorator';
+import { Component, Prop, Vue, Watch } from 'vue-property-decorator';
 
 @Component({})
 export default class Child extends Vue {
